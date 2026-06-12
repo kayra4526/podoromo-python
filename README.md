@@ -1,4 +1,4 @@
-# 🍅 Python Pomodoro Odaklanma Sayacı (Terminal-Based Pomodoro Timer)
+#Python Pomodoro Odaklanma Sayacı (Terminal-Based Pomodoro Timer)
 
 Bu proje, terminal üzerinden çalışan, canlı geri sayım özelliğine sahip minimalist bir Pomodoro odaklanma sayacıdır. Ders çalışırken, kod yazarken veya herhangi bir işe odaklanırken zaman yönetiminizi en üst seviyeye çıkarmak için tasarlanmıştır.
 
